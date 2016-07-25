@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Commons'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of Commons.'
+  s.summary          = 'My personal common iOS convenience helpers for most projects.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+These are my personal collection of convenience helper classes and functions the I usually use on most of my projects.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/Commons'
+  s.homepage         = 'https://github.com/jolen10/iOS.Commons'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Ian Lopez' => 'ian.lopez@ivp.co.jp' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/Commons.git', :tag => s.version.to_s }
+  s.author           = { 'Ian Lopez' => 'ianlopez.hb@gmail.com' }
+  s.source           = { :git => 'https://github.com/jolen10/iOS.Commons.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

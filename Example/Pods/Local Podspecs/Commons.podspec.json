@@ -1,0 +1,22 @@
+{
+  "name": "Commons",
+  "version": "0.1.0",
+  "summary": "My personal common iOS convenience helpers for most projects.",
+  "description": "These are my personal collection of convenience helper classes and functions the I usually use on most of my projects.",
+  "homepage": "https://github.com/jolen10/iOS.Commons",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ian Lopez": "ianlopez.hb@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jolen10/iOS.Commons.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Commons/Classes/**/*"
+}
